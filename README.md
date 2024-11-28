@@ -110,6 +110,8 @@ Access the application at http://localhost:3000 in your browser.
 # Screenshots
 
 - Login Page : ![Screenshot 2024-11-27 205026](https://github.com/user-attachments/assets/1be3ccd6-5f14-4ce0-b655-eee4c160e831)
+- Register Page (with user profile pic - optional) : ![image](https://github.com/user-attachments/assets/c9a50a03-68ec-42df-9bcc-8b13ac750d22)
+
 - ![Screenshot 2024-11-27 205106](https://github.com/user-attachments/assets/446ca145-7c6c-46dd-91c1-c27f4edf9c1f)
 - After Signup / Login :
   ![Screenshot 2024-11-27 205300](https://github.com/user-attachments/assets/596e8d9e-deeb-4110-be13-4f5a2e6cc6e0)
